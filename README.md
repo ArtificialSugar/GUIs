@@ -47,23 +47,29 @@ Run the program:
 	python GUI.py
 
 # Instructions
-1.&emsp;After completing the installation steps, a sign in GUI should appear on your screen (pictured below). Click the text "Create an account".
+1.&emsp;After completing the installation steps, a sign in GUI should appear on your screen (pictured below). 
 
-2.&emsp;Fill in all input boxes under Login Credentials and Account Details.
+2.&emsp;Click the text "Create an account".
 
-3.&emsp;Click the Create Account button. Login credentials and account details are stored in the database file accounts.db.
+3.&emsp;Fill in all input boxes under Login Credentials and Account Details.
 
-4.&emsp;Next, click on the text "Return to sign in". Use the newly created login credentials to fill in both input boxes titled Username and Password.
+4.&emsp;Click the Create Account button. 
 
-5.&emsp;Click the Continue button.
+5.&emsp;Login credentials and account details are stored in the database file accounts.db.
 
-6.&emsp;Frames per second (FPS) are displayed in the bottom right corner of the video GUI.
+6.&emsp;Next, click on the text "Return to sign in". 
 
-7.&emsp;To start a webcam feed click on the button with the play icon.  
+7.&emsp;Use the newly created login credentials to fill in both input boxes titled Username and Password.
 
-8.&emsp;To stop the webcam feed click on the button with the stop icon.
+8.&emsp;Click the Continue button.
 
-9.&emsp;To end the program, click on the X in the top right corner of any GUI window.
+9.&emsp;Frames per second (FPS) are displayed in the bottom right corner of the video GUI.
+
+10.&emsp;To start a webcam feed click on the button with the play icon.  
+
+11.&emsp;To stop the webcam feed click on the button with the stop icon.
+
+12.&emsp;To end the program, click on the X in the top right corner of any GUI window.
 
 <br />![image](https://user-images.githubusercontent.com/105562075/168449178-4bad69ef-4e4f-44dd-815e-fd102a64a607.png) ![image](https://user-images.githubusercontent.com/105562075/168449219-a196eef8-3830-4c7d-8c50-3ee48997ed75.png)
 ![image](https://user-images.githubusercontent.com/105562075/168449239-ca75c26a-9c74-4b5e-a8d3-6741cca6533c.png) ![image](https://user-images.githubusercontent.com/105562075/168450384-cba0b4f0-3519-4dba-90f4-851fb186a84b.png)

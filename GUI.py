@@ -98,13 +98,10 @@ class Ui_Register(QDialog):
             pass
         conn.commit()
         conn.close()
-
         if len(user) == 0 or len(password) == 0 or len(gender) == 0 or len(age) == 0 or len(country) == 0 or len(city) == 0:
             self.processinput.setText("Please fill in all boxes")
-
         elif user == user_validate:
             self.processinput.setText("Username exists")
-         
         else:
             conn = sqlite3.connect("accounts.db")
             c = conn.cursor()
